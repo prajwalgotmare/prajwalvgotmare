@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajwalvgotmare
 - 👀 I’m interested in machine learning, deep learning , computer vision and nlp.
-- 🌱 I’m currently learning machine learning algorithms.
+- 🌱 I’m a data scientist learning machine learning algorithms and building amazing projects with it.
 - 💞️ I’m looking to collaborate on any ai project
 - 📫 You can reach me through my email : prajwalvgotmare@gmail.com
 
